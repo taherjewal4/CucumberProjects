@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eeb907e3-a128-44ec-a0c6-ab4ff1e4a56b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-ArrayList-Part-2-Source-code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-ArrayList-Part-2-Source-code/lib/gson-2.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-ArrayList-Part-2-Source-code/src/JavaDesigning/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-ArrayList-Part-2-Source-code/src/JavaDesigning/SIngletonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-ArrayList-Part-2-Source-code/src/JavaDesigning/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-ArrayList-Part-2-Source-code/src/JavaDesigning/ToyotaCamry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-ArrayList-Part-2-Source-code/src/JavaDesigning/toyotaINjapan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-ArrayList-Part-2-Source-code/src/com/jewal/GroceryItemList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-ArrayList-Part-2-Source-code/src/com/jewal/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/AMAZON/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/AMAZON/src/main/java/homePage/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/AMAZON/src/test/java/testHomePage/TestHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/AMAZON/src/test/resources/AMAZONTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/CNNnews/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/CNNnews/src/main/java/brokenliks/BrokenLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/CNNnews/src/test/java/testbrokenlinks/TestBrokenLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/CNNnews/src/test/resources/CnnTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/Cigna/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/Cigna/src/main/java/homePage/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/Cigna/src/test/java/testHomePage/TestHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/Cigna/src/test/resources/CignaTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/FaceBookCucumber/FaceBookCucumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/FaceBookCucumber/Test Results - Feature__logIn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/FaceBookCucumber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/FaceBookCucumber/src/main/java/pomDirectory/LogInPagePom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/FaceBookCucumber/src/test/java/runner/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/FaceBookCucumber/src/test/java/stepDeff/Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/FaceBookCucumber/src/test/resources/CU.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/FaceBookCucumber/src/test/resources/logIn.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/Generic/browser-drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/Generic/src/main/java/Common/CommonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/Generic/src/main/java/commonMobile/MobileAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/Jenkinsfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/MobileAPPCricbuzz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/MobileAPPCricbuzz/src/app/Cricbuzz.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/MobileAPPCricbuzz/src/main/java/homePage/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/MobileAPPCricbuzz/src/test/java/testHomePage/TestHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/MobileAPPCricbuzz/src/test/resources/CricbuzzTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/RestAssuredTwitter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/RestAssuredTwitter/src/main/java/Get_Post_Update_Delete/RestAssured.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/RestAssuredTwitter/src/test/resources/Cradentials.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampGroup3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/lib/byte-buddy-1.8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/lib/client-combined-3.141.59-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/lib/client-combined-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/lib/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/lib/okhttp-3.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/lib/okio-1.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/lib/selenium-server-standalone-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/lib/testng-7.0.0-beta3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/src/amazon/AmazonHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/src/amazon/TestAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-13/src/automationPractice/TestAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/Class14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/Generic/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/Generic/src/main/java/base/CommonApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/amazon/amazon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/amazon/src/main/java/title/AmazonHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/amazon/src/test/java/title/AmazonHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class14/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/src/main/java/collections/javaCLASS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/src/main/java/collections/newCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/src/main/java/collections/newCollections1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/src/main/java/features/dataDriven.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/src/main/java/features/logIn.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/src/main/java/features/mapUse.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/src/main/java/features/new.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/src/main/java/steps/StepsDataDriven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/src/main/java/steps/StepsDefination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/src/main/java/steps/StepsWithMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberNABDD/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CucumberProjects_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/browser-driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pom/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/StepDeffinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/newLogin.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseOpsJan2019" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntelliJ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/.idea/libraries/testng_7_0_0_beta3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/MIDTERM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/META-INF/MIDTERM.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/Testing/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/Testing/TestNG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/algorithms/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/algorithms/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/dataBase/MongoDB/ConnectToMongo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/dataBase/MySqlConnect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/dataBase/mongo-java-driver-3.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/dataBase/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/dataStructure/Hashmap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/dataStructure/Students.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/dataStructure/UseArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/oopDesign/BOABrooklyn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/oopDesign/BOAManhattan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/out/production/MIDTERM/oopDesign/BOARules.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/Testing/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/Testing/TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/algorithms/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/algorithms/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/dataBase/MongoDB/ConnectToMongo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/dataBase/MySqlConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/dataBase/mongo-java-driver-3.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/dataBase/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/dataStructure/Hashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/dataStructure/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/dataStructure/UseArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/oopDesign/BOABrooklyn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/oopDesign/BOAManhattan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIDTERM/src/oopDesign/BOARules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/Generic/src/main/java/common/MobileAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/NYP1/NYP1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/NYP1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/NYP1/src/apps/nyp.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/NYP1/src/main/java/home/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/NYP1/src/test/java/articles/ArticleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/NYP1/src/test/resources/NYPTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/UICatalog/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/UICatalog/src/main/java/AlertsPage/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/UICatalog/src/main/java/ButtonsPage/ButtonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/UICatalog/src/main/java/ImagesPage/ImagesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/UICatalog/src/main/java/PickersPage/PickerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/UICatalog/src/main/java/TransitionsPage/TransitionsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/UICatalog/src/main/java/UiCatalogPage/UiCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/UICatalog/src/main/java/controlspage/ControlsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/UICatalog/src/test/java/iPhone/PickerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileAutomationGroup3/UICatalog/src/test/resources/UICatalogTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/FaceBook/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/FaceBook/src/main/java/excleFb/ExcleFacebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/FaceBook/src/test/java/testing/TestExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/FaceBook/src/test/resources/teststeps.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/Generic/src/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/Generic/src/driver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/Generic/src/main/java/Book3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/Generic/src/main/java/base/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/Generic/src/main/java/base/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySample/Generic/src/main/java/datafromExcle/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAPINaveens/src/main/java/stringUtill/StringUtill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAPINaveens/src/test/java/testRestApi/PostApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web2019/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web2019/Amazon/Amazon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web2019/Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web2019/Amazon/src/main/java/homepage/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web2019/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web2019/Generic/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web2019/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web2019/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web2019/Web2019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationGroup3/Generic/browser-driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationGroup3/Generic/browser-driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationGroup3/Generic/browser-driver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationGroup3/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationGroup3/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationGroup3/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationGroup3/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomationGroup3/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoFahim_class/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoFahim_class/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoFahim_class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoFahim_class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoFahim_class/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoFahim_class/demoFahim_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoFahim_class/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoFahim_class/twitter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forpractice7/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/automation/automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/automation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/automation/src/main/java/homePage/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/automation/src/test/java/TestHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/common/common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/common/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/common/src/main/java/base/BaseClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/jewalFramWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jewalFramWork/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/IntelliJ/homePractice/Home.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/IntelliJ/homePractice/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/homePractice/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/homePractice/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webAutomation/Generic/target/NetFliex-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/StepDeffinations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="102" column="35" lean-forward="true" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.2.3/cucumber-core-4.2.3-sources.jar!/cucumber/runtime/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.2.3/cucumber-core-4.2.3-sources.jar!/cucumber/runner/PickleStepDefinitionMatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.2.3/cucumber-core-4.2.3-sources.jar!/cucumber/runner/TestStep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/login.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/newLogin.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pom/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/runner/Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="74" column="15" selection-start-line="74" selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/login.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/pom/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/runner/Runner.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/newLogin.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/StepDeffinations.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CucumberProjects" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CucumberProjects" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="801" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CucumberProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="browser-driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CucumberProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CucumberProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/browser-driver" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/browser-driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: newLogin">
+    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/login.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumberProjects" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: newLogin" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/newLogin.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumberProjects" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: newLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Facebook login with set of data" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/newLogin.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumberProjects" />
+      <option name="NAME_FILTER" value="^Facebook login with set of data$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Facebook login with set of data$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Facebook login with set of data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: login test only" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/newLogin.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumberProjects" />
+      <option name="NAME_FILTER" value="^login test only$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^login test only$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: login test only" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CucumberProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: login" />
+      <item itemvalue="Cucumber java.Feature: newLogin" />
+      <item itemvalue="TestNG.Runner" />
+      <item itemvalue="Cucumber java.Scenario: login test only" />
+      <item itemvalue="Cucumber java.Scenario: Facebook login with set of data" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: newLogin" />
+        <item itemvalue="Cucumber java.Scenario: Facebook login with set of data" />
+        <item itemvalue="TestNG.Runner" />
+        <item itemvalue="Cucumber java.Feature: login" />
+        <item itemvalue="Cucumber java.Scenario: login test only" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eeb907e3-a128-44ec-a0c6-ab4ff1e4a56b" name="Default Changelist" comment="" />
+      <created>1557872648618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557872648618</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Feature__newLogin - 2019.08.12 at 21h 50m 32s.xml">
+      <configuration name="Feature: newLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Facebook_login_with_set_of_data - 2019.08.12 at 21h 52m 09s.xml">
+      <configuration name="Scenario: Facebook login with set of data" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Facebook_login_with_set_of_data - 2019.08.12 at 21h 52m 46s.xml">
+      <configuration name="Scenario: Facebook login with set of data" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__newLogin - 2019.08.12 at 21h 53m 08s.xml">
+      <configuration name="Feature: newLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__newLogin - 2019.08.12 at 21h 53m 36s.xml">
+      <configuration name="Feature: newLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__newLogin - 2019.08.12 at 21h 54m 16s.xml">
+      <configuration name="Feature: newLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Facebook_login_with_set_of_data - 2019.08.12 at 21h 55m 58s.xml">
+      <configuration name="Scenario: Facebook login with set of data" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__newLogin - 2019.08.12 at 22h 00m 47s.xml">
+      <configuration name="Feature: newLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__newLogin - 2019.08.12 at 22h 01m 01s.xml">
+      <configuration name="Feature: newLogin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Facebook_login_with_set_of_data - 2019.08.12 at 22h 02m 02s.xml">
+      <configuration name="Scenario: Facebook login with set of data" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24678111" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38554215" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.4159664" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32904148" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pom/HomePage.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/StepDeffinations.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-testng/4.2.3/cucumber-testng-4.2.3-sources.jar!/cucumber/api/testng/AbstractTestNGCucumberTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ghjgfdhsj/Runner1.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/Alert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59-sources.jar!/org/openqa/selenium/firefox/FirefoxDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="123" column="9" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/CacheLookup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="15" selection-start-line="74" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/runner/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.2.3/cucumber-core-4.2.3-sources.jar!/cucumber/runner/PickleStepDefinitionMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.2.3/cucumber-core-4.2.3-sources.jar!/cucumber/runner/TestStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.2.3/cucumber-core-4.2.3-sources.jar!/cucumber/runtime/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/newLogin.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pom/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/StepDeffinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="102" column="35" lean-forward="true" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>CucumberProjects:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CucumberProjects</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
